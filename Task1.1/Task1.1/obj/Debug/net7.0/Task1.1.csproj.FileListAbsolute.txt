@@ -1,0 +1,15 @@
+/Users/olya/projects/Task1.1/Task1.1/bin/Debug/net7.0/Task1.1
+/Users/olya/projects/Task1.1/Task1.1/bin/Debug/net7.0/Task1.1.deps.json
+/Users/olya/projects/Task1.1/Task1.1/bin/Debug/net7.0/Task1.1.runtimeconfig.json
+/Users/olya/projects/Task1.1/Task1.1/bin/Debug/net7.0/Task1.1.dll
+/Users/olya/projects/Task1.1/Task1.1/bin/Debug/net7.0/Task1.1.pdb
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/Task1.1.csproj.AssemblyReference.cache
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/Task1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/Task1.1.AssemblyInfoInputs.cache
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/Task1.1.AssemblyInfo.cs
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/Task1.1.csproj.CoreCompileInputs.cache
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/Task1.1.dll
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/refint/Task1.1.dll
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/Task1.1.pdb
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/Task1.1.genruntimeconfig.cache
+/Users/olya/projects/Task1.1/Task1.1/obj/Debug/net7.0/ref/Task1.1.dll
