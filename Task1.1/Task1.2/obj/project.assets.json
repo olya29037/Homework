@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/olya/projects/Task1.1/Task1.2/Task1.2.csproj",
-      "projectName": "Task1.2",
-      "projectPath": "/Users/olya/projects/Task1.1/Task1.2/Task1.2.csproj",
+      "projectUniqueName": "/Volumes/olya/Home/Task1.1/Task1.2/Lesson 1.4.csproj",
+      "projectName": "Lesson 1.4",
+      "projectPath": "/Volumes/olya/Home/Task1.1/Task1.2/Lesson 1.4.csproj",
       "packagesPath": "/Users/olya/.nuget/packages/",
-      "outputPath": "/Users/olya/projects/Task1.1/Task1.2/obj/",
+      "outputPath": "/Volumes/olya/Home/Task1.1/Task1.2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/olya/.nuget/NuGet/NuGet.Config"

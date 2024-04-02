@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/olya/Home/Task1.1/Task1.2/Task1.2.csproj": {}
+    "/Volumes/olya/Home/Task1.1/Task1.2/Lesson 1.4.csproj": {}
   },
   "projects": {
-    "/Volumes/olya/Home/Task1.1/Task1.2/Task1.2.csproj": {
+    "/Volumes/olya/Home/Task1.1/Task1.2/Lesson 1.4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/olya/Home/Task1.1/Task1.2/Task1.2.csproj",
-        "projectName": "Task1.2",
-        "projectPath": "/Volumes/olya/Home/Task1.1/Task1.2/Task1.2.csproj",
+        "projectUniqueName": "/Volumes/olya/Home/Task1.1/Task1.2/Lesson 1.4.csproj",
+        "projectName": "Lesson 1.4",
+        "projectPath": "/Volumes/olya/Home/Task1.1/Task1.2/Lesson 1.4.csproj",
         "packagesPath": "/Users/olya/.nuget/packages/",
         "outputPath": "/Volumes/olya/Home/Task1.1/Task1.2/obj/",
         "projectStyle": "PackageReference",
