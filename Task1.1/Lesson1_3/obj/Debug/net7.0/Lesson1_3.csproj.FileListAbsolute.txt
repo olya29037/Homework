@@ -1,0 +1,15 @@
+/Volumes/olya/Home/Task1.1/Lesson1_3/bin/Debug/net7.0/Lesson1_3
+/Volumes/olya/Home/Task1.1/Lesson1_3/bin/Debug/net7.0/Lesson1_3.deps.json
+/Volumes/olya/Home/Task1.1/Lesson1_3/bin/Debug/net7.0/Lesson1_3.runtimeconfig.json
+/Volumes/olya/Home/Task1.1/Lesson1_3/bin/Debug/net7.0/Lesson1_3.dll
+/Volumes/olya/Home/Task1.1/Lesson1_3/bin/Debug/net7.0/Lesson1_3.pdb
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/Lesson1_3.csproj.AssemblyReference.cache
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/Lesson1_3.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/Lesson1_3.AssemblyInfoInputs.cache
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/Lesson1_3.AssemblyInfo.cs
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/Lesson1_3.csproj.CoreCompileInputs.cache
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/Lesson1_3.dll
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/refint/Lesson1_3.dll
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/Lesson1_3.pdb
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/Lesson1_3.genruntimeconfig.cache
+/Volumes/olya/Home/Task1.1/Lesson1_3/obj/Debug/net7.0/ref/Lesson1_3.dll

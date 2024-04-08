@@ -1,5 +1,5 @@
 ﻿
-namespace Lesson1._6;
+namespace Lesson1._7;
 
 public static class Task1
 {
