@@ -1,39 +1,45 @@
-﻿<Properties StartupConfiguration="{383DE360-1BE7-4865-A015-2CF5A1FD0197}|Default">
+﻿<Properties StartupConfiguration="{9722DD3A-6006-4E30-9C2C-3DB0DD71FBD6}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lesson1__7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson1__3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson_2201__4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson1__5 FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson1_3/Task1.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lesson1__5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson1_5/Program.cs">
     <Files>
       <File FileName="Task1.2/Task1.cs" Line="1" Column="1" />
-      <File FileName="Task1.2/Task2.cs" Line="1" Column="1" />
-      <File FileName="Task1.2/Task3.cs" Line="1" Column="1" />
-      <File FileName="Task1.2/Task4.cs" Line="1" Column="1" />
-      <File FileName="Task1.2/Task6.cs" Line="1" Column="1" />
-      <File FileName="app.config" Line="1" Column="1" />
-      <File FileName="Lesson1.6/Task1.cs" Line="2" Column="21" />
-      <File FileName="Lesson1.6/Program.cs" Line="8" Column="24" />
-      <File FileName="Lesson1.6/EmptyClass.cs" Line="2" Column="21" />
-      <File FileName="Lesson1_5/Program.cs" Line="1" Column="1" />
-      <File FileName="Lesson1_3/Program.cs" Line="10" Column="2" />
-      <File FileName="Lesson1_3/EmptyClass.cs" Line="28" Column="1" />
+      <File FileName="Task1.2/Task2.cs" />
+      <File FileName="Task1.2/Task3.cs" />
+      <File FileName="Task1.2/Task4.cs" />
+      <File FileName="Task1.2/Task6.cs" />
+      <File FileName="app.config" />
+      <File FileName="Lesson1.6/Task1.cs" />
+      <File FileName="Lesson1.6/Program.cs" />
+      <File FileName="Lesson1_5/Program.cs" Line="69" Column="2" />
+      <File FileName="Lesson1_3/Program.cs" />
+      <File FileName="Lesson1_3/Task1.cs" />
+      <File FileName="Lesson1_3/Task2.cs" />
+      <File FileName="Lesson1.6/Task2.cs" />
+      <File FileName="Lesson1_3/Task3.cs" />
+      <File FileName="Lesson1_5/Task1.cs" Line="1" Column="1" />
+      <File FileName="Task1.2/Program.cs" Line="1" Column="1" />
+      <File FileName="test/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Homework" expanded="True">
-            <Node name="Lesson1_3">
-              <Node name="Task1.cs" selected="True" />
+            <Node name="Lesson1_5">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Lesson1__3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lesson1__7 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
