@@ -26,16 +26,14 @@ class Program   //Это решение Task4
         {
             Console.WriteLine("Некорректный ввод.");
         }
+
+        {
+            StringBuilder sb = new StringBuilder("Hello, World!");
+            Console.WriteLine(sb.ToUpperString());
+        }
     }
 }
 
-class Program// Это решение Task5
-{
-    static void Main()
-    {
-        StringBuilder sb = new StringBuilder("Hello, World!");
-        Console.WriteLine(sb.ToUpperString());
-    }
-}
+
 
 

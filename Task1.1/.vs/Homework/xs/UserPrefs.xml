@@ -1,23 +1,23 @@
 ﻿<Properties StartupConfiguration="{311E65AB-C035-40C4-A374-053BBAB13A28}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Test_Work/Task1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test_Work/Program.cs">
     <Files>
-      <File FileName="Task1.2/Task1.cs" Line="1" Column="1" />
-      <File FileName="Task1.2/Task2.cs" Line="1" Column="1" />
+      <File FileName="Task1.2/Task1.cs" />
+      <File FileName="Task1.2/Task2.cs" />
       <File FileName="Task1.2/Task3.cs" />
       <File FileName="Task1.2/Task4.cs" />
       <File FileName="Task1.2/Task6.cs" />
       <File FileName="app.config" />
-      <File FileName="Lesson1.6/Task1.cs" />
-      <File FileName="Lesson1.6/Program.cs" />
-      <File FileName="Lesson1_5/Program.cs" Line="1" Column="1" />
+      <File FileName="Lesson1.6/Task1.cs" Line="1" Column="1" />
+      <File FileName="Lesson1.6/Program.cs" Line="1" Column="1" />
+      <File FileName="Lesson1_5/Program.cs" />
       <File FileName="Lesson1_3/Program.cs" />
       <File FileName="Lesson1_3/Task1.cs" />
       <File FileName="Lesson1_3/Task2.cs" />
-      <File FileName="Lesson1.6/Task2.cs" />
+      <File FileName="Lesson1.6/Task2.cs" Line="1" Column="1" />
       <File FileName="Lesson1_3/Task3.cs" />
       <File FileName="Lesson1_5/Task1.cs" />
-      <File FileName="Task1.2/Program.cs" Line="7" Column="9" />
-      <File FileName="Lesson 1_8/Program.cs" Line="1" Column="1" />
+      <File FileName="Task1.2/Program.cs" />
+      <File FileName="Lesson 1_8/Program.cs" />
       <File FileName="Task_9/Program.cs" />
       <File FileName="Task_9/Person.cs" />
       <File FileName="Task_9/Employee.cs" />
@@ -31,23 +31,22 @@
       <File FileName="Lesson_9/Person.cs" />
       <File FileName="Lesson_9/Employee.cs" />
       <File FileName="Lesson_9/Customer.cs" />
-      <File FileName="Lesson_11/Program.cs" />
-      <File FileName="Test_Work/Program.cs" Line="15" Column="1" />
-      <File FileName="Test_Work/Task1.cs" Line="2" Column="22" />
-      <File FileName="Test_Work/Task3.cs" Line="8" Column="68" />
-      <File FileName="Test_Work/Task3.cs" Line="8" Column="67" />
+      <File FileName="Lesson_11/Program.cs" Line="1" Column="1" />
+      <File FileName="Test_Work/Program.cs" Line="39" Column="2" />
+      <File FileName="Test_Work/Task4.cs" Line="14" Column="1" />
+      <File FileName="Test_Work/Task5.cs" Line="6" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Homework" expanded="True">
-            <Node name="Lesson_10">
-              <Node name="Dependencies" expanded="True" />
+            <Node name="Lesson 1_4" expanded="True" />
+            <Node name="Lesson1_7" expanded="True" />
+            <Node name="Lesson_10" expanded="True" />
+            <Node name="Lesson_11" expanded="True" />
+            <Node name="MidtermTest">
+              <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Lesson_9">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
-            <Node name="MidtermTest" expanded="True" />
           </Node>
         </State>
       </Pad>
